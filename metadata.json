@@ -1,0 +1,8 @@
+{
+  "name": "Bengkel Berkah Jaya - Bengkel Motor Serpong",
+  "description": "Landing page resmi Bengkel Berkah Jaya: Layanan servis motor terpercaya, jujur, cepat, dan profesional di Serpong, Tangerang Selatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
